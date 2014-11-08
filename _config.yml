@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        ":categories/:title/"
+baseurl:          /FIXME
+relative_permalinks: true
+
+# Setup
+title:            'FIXME'
+tagline:          'FIXME'
+description:      'FIXME'
+url:              http://rizomas.org/FIXME
+
+author:
+  name:           'Luis Borjas'
+  url:            http://rizomas.org
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/rizoma/FIXME
